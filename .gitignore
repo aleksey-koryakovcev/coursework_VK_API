@@ -3,5 +3,5 @@
 venv/
 
 # other
-.jpg
-.txt
+*.jpg
+*.txt
